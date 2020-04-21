@@ -18,4 +18,6 @@ Describe the feature and why you want it.
 
 **Reference implementation**
 <!--
-When request
+When requesting fonts, please post a link to their TTF or OTF
+files.
+When req
