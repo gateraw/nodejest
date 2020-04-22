@@ -20,4 +20,6 @@ Describe the feature and why you want it.
 <!--
 When requesting fonts, please post a link to their TTF or OTF
 files.
-When req
+When requesting color scheme, post a link to its reference
+implementation.
+--
