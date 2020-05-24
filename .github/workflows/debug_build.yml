@@ -11,4 +11,7 @@ jobs:
     - name: Build
       run: |
         ./gradlew assembleDebug
-    - name: Store generated 
+    - name: Store generated APK file
+      uses: actions/upload-artifact@v3
+      with:
+        name: t
