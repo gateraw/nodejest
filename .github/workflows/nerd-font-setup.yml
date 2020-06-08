@@ -3,4 +3,9 @@ name: Check Nerd Fonts
 on:
   push:
     branches: [ master ]
-  pu
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-
