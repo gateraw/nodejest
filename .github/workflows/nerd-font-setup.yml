@@ -1,1 +1,6 @@
-name: 
+name: Check Nerd Fonts 
+
+on:
+  push:
+    branches: [ master ]
+  pu
