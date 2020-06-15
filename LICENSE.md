@@ -1,1 +1,1 @@
-The `termux/t
+The `termux/termux-styling` repository is released under [GPLv3 only](https://www.gnu.org/lic
