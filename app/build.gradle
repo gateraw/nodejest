@@ -1,2 +1,7 @@
 plugins {
-    id '
+    id 'com.android.application'
+    id 'kotlin-android'
+}
+
+android {
+   
