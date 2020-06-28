@@ -7,4 +7,6 @@ android {
     compileSdkVersion 28
 
      defaultConfig {
-        applicat
+        applicationId "com.termux.styling"
+        minSdkVersion 21
+        targ
