@@ -14,4 +14,6 @@ android {
         versionName "0.30"
     }
 
-    
+    signingConfigs {
+        debug {
+            storeFile file('testkey
