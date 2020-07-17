@@ -21,3 +21,8 @@ android {
             storePassword 'xrj45yWGLbsO7W0v'
             keyPassword 'xrj45yWGLbsO7W0v'
         }
+    }
+
+     buildTypes {
+        release {
+            mini
