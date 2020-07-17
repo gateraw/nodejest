@@ -27,4 +27,4 @@ android {
         release {
             minifyEnabled true
             shrinkResources true
-            pro
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), '
