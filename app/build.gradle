@@ -25,4 +25,6 @@ android {
 
      buildTypes {
         release {
-            mini
+            minifyEnabled true
+            shrinkResources true
+            pro
