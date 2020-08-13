@@ -31,4 +31,10 @@ android {
         }
 
         debug {
-            signingConfi
+            signingConfig signingConfigs.debug
+        }
+    }
+}
+
+dependencies {
+    impleme
