@@ -40,4 +40,6 @@ dependencies {
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
 
-task ver
+task versionName {
+  doLast {
+    print android.defaultConfig.versionName
