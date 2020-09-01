@@ -3,4 +3,4 @@
     package="com.termux.styling"
     android:sharedUserId="com.termux" >
 
-  
+    <uses-feature android:name="android.hardware.touchscreen" android:requir
