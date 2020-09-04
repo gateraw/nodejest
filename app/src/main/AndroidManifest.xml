@@ -3,4 +3,8 @@
     package="com.termux.styling"
     android:sharedUserId="com.termux" >
 
-    <uses-feature android:name="android.hardware.touchscreen" android:requir
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+
+    <application
+        android:allowBackup="true"
+ 
