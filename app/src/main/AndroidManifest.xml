@@ -13,4 +13,8 @@
         <activity
             android:name=".TermuxStyleActivity"
             android:noHistory="true"
-            android:exported="fa
+            android:exported="false" >
+        </activity>
+    </application>
+
+</manifest>
