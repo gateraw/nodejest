@@ -1,1 +1,4 @@
-The MIT License (MIT) Copyright (c) 2012 John-Paul 
+The MIT License (MIT) Copyright (c) 2012 John-Paul Bader
+- http://color.smyck.org/
+
+Permission is hereby granted, fre
