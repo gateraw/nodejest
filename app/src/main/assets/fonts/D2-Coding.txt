@@ -1,0 +1,3 @@
+D2Coding fixed-width Korean font.
+
+Current version used i

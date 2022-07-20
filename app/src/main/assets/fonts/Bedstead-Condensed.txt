@@ -4,4 +4,4 @@ Bedstead is a family of outline fonts based on the characters produced by the Mu
 
 http://bjh21.me.uk/bedstead/
 
-License: C
+License: CC0
