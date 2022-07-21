@@ -1,3 +1,5 @@
 A font family with a great monospaced variant for programmers.
 
-https:
+https://fontlibrary.org/en/font/fantasque-sans-mono
+
+Copyright (c) 2013-
