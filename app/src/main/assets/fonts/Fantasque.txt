@@ -2,4 +2,6 @@ A font family with a great monospaced variant for programmers.
 
 https://fontlibrary.org/en/font/fantasque-sans-mono
 
-Copyright (c) 2013-
+Copyright (c) 2013-2017, Jany Belluz (jany.belluz@hotmail.fr)
+
+This Font Software is
