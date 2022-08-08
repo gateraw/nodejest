@@ -5,4 +5,5 @@ https://fontlibrary.org/en/font/fantasque-sans-mono
 Copyright (c) 2013-2017, Jany Belluz (jany.belluz@hotmail.fr)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil
