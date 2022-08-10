@@ -15,4 +15,4 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
-developme
+development of collaborative font projects, to support the font creati
