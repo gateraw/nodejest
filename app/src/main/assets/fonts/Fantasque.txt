@@ -21,4 +21,5 @@ open framework in which fonts may be shared and improved in partnership
 with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and
-redistributed freely as long as they are no
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, 
