@@ -37,4 +37,5 @@ include source files, build scripts and documentation.
 "Reserved Font Name" refers to any names specified as such after the
 copyright statement(s).
 
-"Original Version" 
+"Original Version" refers to the collection of Font Software components as
+distributed by t
