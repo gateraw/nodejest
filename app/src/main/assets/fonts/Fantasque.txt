@@ -42,4 +42,7 @@ distributed by the Copyright Holder(s).
 
 "Modified Version" refers to any derivative made by adding to, deleting,
 or substituting -- in part or in whole -- any of the components of the
-Original Version, by changing formats o
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers
