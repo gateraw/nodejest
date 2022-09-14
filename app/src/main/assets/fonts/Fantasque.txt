@@ -57,4 +57,5 @@ Software, subject to the following conditions:
 1) Neither the Font Software nor any of its individual components,
 in Original or Modified Versions, may be sold by itself.
 
-2) Original or Modif
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/
