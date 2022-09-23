@@ -70,4 +70,5 @@ Copyright Holder. This restriction only applies to the primary font name as
 presented to the users.
 
 4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
-Software sh
+Software shall not be used to promote, endorse or advertise any
+Modifie
