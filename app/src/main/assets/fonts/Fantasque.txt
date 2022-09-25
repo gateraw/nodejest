@@ -71,4 +71,5 @@ presented to the users.
 
 4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
 Software shall not be used to promote, endorse or advertise any
-Modifie
+Modified Version, except to acknowledge the contribution(s) of the
+Copyr
