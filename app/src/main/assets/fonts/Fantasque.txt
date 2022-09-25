@@ -73,4 +73,7 @@ presented to the users.
 Software shall not be used to promote, endorse or advertise any
 Modified Version, except to acknowledge the contribution(s) of the
 Copyright Holder(s) and the Author(s) or with their explicit written
-permissi
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must
