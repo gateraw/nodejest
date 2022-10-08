@@ -1,1 +1,5 @@
-A typeface designed for source code by 
+A typeface designed for source code by Chris Simpkins.
+
+http://sourcefoundry.org/hack/
+
+## Lice
