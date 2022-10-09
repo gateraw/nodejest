@@ -2,4 +2,6 @@ A typeface designed for source code by Chris Simpkins.
 
 http://sourcefoundry.org/hack/
 
-## Lice
+## License
+
+Hack Copyright 2015, Christopher Simpkins with Reser
