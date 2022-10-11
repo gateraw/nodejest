@@ -4,4 +4,6 @@ http://sourcefoundry.org/hack/
 
 ## License
 
-Hack Copyright 2015, Christopher Simpkins with Reser
+Hack Copyright 2015, Christopher Simpkins with Reserved Font Name "Hack".
+
+Bitstream Vera Sans Mono Copyright 2003 Bi
