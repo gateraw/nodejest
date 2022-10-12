@@ -8,4 +8,8 @@ Hack Copyright 2015, Christopher Simpkins with Reserved Font Name "Hack".
 
 Bitstream Vera Sans Mono Copyright 2003 Bitstream Inc. and licensed under the Bitstream Vera License with Reserved Font Names "Bitstream" and "Vera"
 
-DejaVu modifications of the original Bitstream Ve
+DejaVu modifications of the original Bitstream Vera Sans Mono typeface have been committed to the public domain.
+
+
+
+This F
