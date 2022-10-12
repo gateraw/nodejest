@@ -12,4 +12,9 @@ DejaVu modifications of the original Bitstream Vera Sans Mono typeface have been
 
 
 
-This Font Software is licensed under the Hack Open Font License v2.0
+This Font Software is licensed under the Hack Open Font License v2.0 and the Bitstream Vera License.
+
+These licenses are copied below.
+
+
+###
