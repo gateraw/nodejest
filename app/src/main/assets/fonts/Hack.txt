@@ -23,4 +23,8 @@ These licenses are copied below.
 
 (Version 2.0 - 27 September 2015)
 
-Copyright 2015 by Christopher Simpkins. All Rights Re
+Copyright 2015 by Christopher Simpkins. All Rights Reserved.
+
+DEFINITIONS
+
+"Author" refers to any designer, engineer, progra
