@@ -27,4 +27,8 @@ Copyright 2015 by Christopher Simpkins. All Rights Reserved.
 
 DEFINITIONS
 
-"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Softw
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION AND CONDITIONS
+
+Permission is hereby granted, free of ch
