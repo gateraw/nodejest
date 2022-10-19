@@ -31,4 +31,4 @@ DEFINITIONS
 
 PERMISSION AND CONDITIONS
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license ("Fonts") and associated source code, documentation, and binary fi
+Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license ("Fonts") and associated source code, documentation, and binary files (the "Font Software"), to reproduce and distribute the modifications to t
