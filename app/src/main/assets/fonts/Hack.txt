@@ -31,4 +31,6 @@ DEFINITIONS
 
 PERMISSION AND CONDITIONS
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license ("Fonts") and associated source code, documentation, and binary files (the "Font Software"), to reproduce and distribute the modifications to the Bitstream Vera Font Software, including without limitation the rights to use, study, copy, merge, embed, modify, redistribute, and/or sell modified or unmodified copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so
+Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license ("Fonts") and associated source code, documentation, and binary files (the "Font Software"), to reproduce and distribute the modifications to the Bitstream Vera Font Software, including without limitation the rights to use, study, copy, merge, embed, modify, redistribute, and/or sell modified or unmodified copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:
+
+(1) The 
