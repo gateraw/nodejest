@@ -33,4 +33,4 @@ PERMISSION AND CONDITIONS
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license ("Fonts") and associated source code, documentation, and binary files (the "Font Software"), to reproduce and distribute the modifications to the Bitstream Vera Font Software, including without limitation the rights to use, study, copy, merge, embed, modify, redistribute, and/or sell modified or unmodified copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:
 
-(1) The above copyright notice and this permission notice shall be included in all modified and unmodified copies of the Font Software typefaces. These notices can be included either as stand-alone text files, human-readable headers or in the appropriate ma
+(1) The above copyright notice and this permission notice shall be included in all modified and unmodified copies of the Font Software typefaces. These notices can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as 
