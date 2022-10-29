@@ -37,4 +37,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 (2) The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing the word "Hack".
 
-(3) Neither the Font Software nor any of its individual components, in original or modifi
+(3) Neither the Font Software nor any of its individual components, in original or modified versions, may be sold by itself.
+
+TERMINATION
+
+This license bec
