@@ -43,4 +43,4 @@ TERMINATION
 
 This license becomes null and void if any of the above conditions are not met.
 
-THE FONT SOFTW
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
