@@ -49,4 +49,6 @@ Except as contained in this notice, the names of Christopher Simpkins and the Au
 
 
 
-### BIT
+### BITSTREAM VERA LICENSE
+
+Copyright (c) 2003 by Bitstream, In
