@@ -51,4 +51,4 @@ Except as contained in this notice, the names of Christopher Simpkins and the Au
 
 ### BITSTREAM VERA LICENSE
 
-Copyright (c) 2003 by Bitstream, In
+Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is a trademark of Bi
