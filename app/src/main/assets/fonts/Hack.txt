@@ -57,4 +57,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.
 
-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs 
+The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to n
