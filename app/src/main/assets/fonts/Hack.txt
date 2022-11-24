@@ -61,4 +61,6 @@ The Font Software may be modified, altered, or added to, and in particular the d
 
 This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the "Bitstream Vera" names.
 
-The Font Software may be sold as part of a larger software package but no copy of one or mo
+The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.
+
+THE FONT 
