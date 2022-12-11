@@ -1,1 +1,3 @@
-Customized version of App
+Customized version of Apple's Menlo font by André Berg.
+
+https://github.com/andreberg/Mes
