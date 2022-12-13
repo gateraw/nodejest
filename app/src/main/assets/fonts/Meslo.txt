@@ -4,4 +4,5 @@ https://github.com/andreberg/Meslo-Font
 
 Copyright 2009, 2010, 2013 André Berg
 
-Licensed under 
+Licensed under the Apache License, Version 2.0 (the “License”);
+you may not use thi
