@@ -133,3 +133,62 @@ class TermuxStyleActivity : Activity() {
                 val dialog = AlertDialog.Builder(this)
                         .setTitle(mCurrentSelectable.displayName)
                         .setMessage(license)
+                        .setPositiveButton(android.R.string.ok, null)
+                        .show()
+                (dialog.findViewById<View>(android.R.id.message) as TextView).movementMethod = LinkMovementMethod.getInstance()
+            }
+        } catch (e: IOException) {
+            // Ignore.
+        }
+
+    }
+
+    private fun copyFile(mCurrentSelectable: Selectable?, colors: Boolean) {
+        val outputFile = if (colors) "colors.properties" else "font.ttf"
+        try {
+            val assetsFolder = if (colors) "colors" else "fonts"
+
+            val context = createPackageContext("com.termux", Context.CONTEXT_IGNORE_SECURITY)
+            val homeDir = File(context.filesDir, "home")
+            val termuxDir = File(homeDir, ".termux")
+            if (!(termuxDir.isDirectory || termuxDir.mkdirs()))
+                throw RuntimeException("Cannot create termux dir=" + termuxDir.absolutePath)
+
+            // Use canonicalFile to follow a possible symlink:
+            val destinationFile = File(termuxDir, outputFile).canonicalFile
+            // Fix for if the user has messed up with chmod:
+            destinationFile.setWritable(true)
+            destinationFile.parentFile.setWritable(true)
+            destinationFile.parentFile.setExecutable(true)
+
+            val defaultChoice = mCurrentSelectable!!.fileName == DEFAULT_FILENAME
+            val atomicFile = AtomicFile(destinationFile)
+            val out = atomicFile.startWrite()
+            if (defaultChoice) {
+                if (colors) {
+                    val comment = "# Using default color theme.".toByteArray(StandardCharsets.UTF_8)
+                    out.write(comment)
+                } else {
+                    // Just leave an empty font file as a marker.
+                }
+            } else {
+                assets.open(assetsFolder + "/" + mCurrentSelectable.fileName).use {
+                    it.copyTo(out)
+                }
+            }
+            atomicFile.finishWrite(out)
+
+            // Note: Must match constant in Term#onCreate():
+            val ACTION_RELOAD = "com.termux.app.reload_style"
+            val executeIntent = Intent(ACTION_RELOAD)
+            executeIntent.putExtra(ACTION_RELOAD, if (colors) "colors" else "font")
+            sendBroadcast(executeIntent)
+        } catch (e: Exception) {
+            Log.w("termux", "Failed to write $outputFile", e)
+            val message = resources.getString(R.string.writing_failed) + e.message
+            Toast.makeText(this, message, Toast.LENGTH_LONG).show()
+        }
+
+    }
+
+}
