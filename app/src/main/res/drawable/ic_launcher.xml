@@ -6,4 +6,6 @@
 
     <path
         android:fillColor="#000000"
-        android:pathData="M
+        android:pathData="M18,54
+                          A36,36 0 1,1 90,54
+                         
