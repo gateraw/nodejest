@@ -12,4 +12,6 @@
 
     <!-- Keep in sync with adaptive ic_foreground.xml: -->
     <path
-        android:fillColor="#FFFFFF
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,38
+                     
