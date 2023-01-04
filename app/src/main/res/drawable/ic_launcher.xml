@@ -16,4 +16,6 @@
         android:pathData="M34,38
                           h6
                           l12,16
-        
+                          l-12,16
+                          h-6
+         
