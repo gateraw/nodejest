@@ -24,4 +24,7 @@
 
     <path
         android:fillColor="#FFFFFF"
-        android:pathData="M56,6
+        android:pathData="M56,66
+                          h18
+                          v4
+         
