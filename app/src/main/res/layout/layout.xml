@@ -1,1 +1,2 @@
-<LinearLayout x
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="htt
