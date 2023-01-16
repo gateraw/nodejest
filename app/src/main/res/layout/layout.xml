@@ -3,4 +3,6 @@
     style="?android:attr/buttonBarStyle"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:divider="@android:d
+    android:divider="@android:drawable/divider_horizontal_bright"
+    android:dividerPadding="8dip"
+    androi
