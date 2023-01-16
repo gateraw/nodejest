@@ -7,4 +7,7 @@
     android:dividerPadding="8dip"
     android:orientation="horizontal"
     android:showDividers="middle"
-    tools:co
+    tools:context="com.termux.styling.TermuxStyleActivity" >
+
+    <Button
+      
