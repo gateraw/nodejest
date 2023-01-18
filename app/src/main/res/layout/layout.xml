@@ -11,4 +11,5 @@
 
     <Button
         android:id="@+id/color_spinner"
-        style="?android:attr
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="wrap_content"
