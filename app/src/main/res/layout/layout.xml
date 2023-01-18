@@ -10,4 +10,5 @@
     tools:context="com.termux.styling.TermuxStyleActivity" >
 
     <Button
-      
+        android:id="@+id/color_spinner"
+        style="?android:attr
