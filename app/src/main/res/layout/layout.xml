@@ -18,4 +18,5 @@
         android:text="@string/color_prompt" />
 
     <Button
-      
+        android:id="@+id/font_spinner"
+        style="?android:attr/b
