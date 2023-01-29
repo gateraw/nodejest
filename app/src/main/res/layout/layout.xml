@@ -19,4 +19,6 @@
 
     <Button
         android:id="@+id/font_spinner"
-        style="?android:attr/b
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="wrap_content"
+      
