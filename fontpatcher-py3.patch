@@ -5,4 +5,6 @@ Subject: [PATCH] powerline-fontpatcher: use python3 instead of python2
 
 ---
  scripts/powerline-fontpatcher | 2 +-
- 1 file changed, 1 in
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/scripts/powerline-fontpatcher b/scrip
