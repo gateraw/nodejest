@@ -10,4 +10,7 @@ Subject: [PATCH] powerline-fontpatcher: use python3 instead of python2
 diff --git a/scripts/powerline-fontpatcher b/scripts/powerline-fontpatcher
 index 8a5567b..372fb7c 100755
 --- a/scripts/powerline-fontpatcher
-+++ b/scripts/powerline-fontp
++++ b/scripts/powerline-fontpatcher
+@@ -1,4 +1,4 @@
+-#!/usr/bin/env python2
++#!/usr/bin/env python3
