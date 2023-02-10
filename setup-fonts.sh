@@ -10,4 +10,5 @@ FONTDIR=$TOPDIR/app/src/main/assets/fonts/
 rm -Rf $TMPDIR
 mkdir -p $TMPDIR
 
-# Install python fontforge bindings for
+# Install python fontforge bindings for use by powerline font patcher:
+if [ $(dpkg-query -W -f='${Status}' pytho
