@@ -11,4 +11,4 @@ rm -Rf $TMPDIR
 mkdir -p $TMPDIR
 
 # Install python fontforge bindings for use by powerline font patcher:
-if [ $(dpkg-query -W -f='${Status}' pytho
+if [ $(dpkg-query -W -f='${Status}' python3-fontforge 2>/dev/null | grep -c "ok installed") -eq 0 ]; t
