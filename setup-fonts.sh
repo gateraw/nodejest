@@ -15,4 +15,6 @@ if [ $(dpkg-query -W -f='${Status}' python3-fontforge 2>/dev/null | grep -c "ok 
 	sudo apt install python3-fontforge
 fi
 
-FONTPATCHER_DIR=$HOME/src
+FONTPATCHER_DIR=$HOME/src/fontpatcher
+if [ -d $FONTPATCHER_DIR ]; then
+	(cd $FONTPATCHER
