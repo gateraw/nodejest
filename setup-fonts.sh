@@ -21,4 +21,7 @@ if [ -d $FONTPATCHER_DIR ]; then
 else
 	mkdir -p $HOME/src
 	git clone https://github.com/powerline/fontpatcher.git $FONTPATCHER_DIR
-	cd $FONTPATCH
+	cd $FONTPATCHER_DIR
+	git am $TOPDIR/fontpatcher-py3.patch
+	./setup.py build
+f
