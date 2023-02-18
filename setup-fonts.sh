@@ -17,4 +17,7 @@ fi
 
 FONTPATCHER_DIR=$HOME/src/fontpatcher
 if [ -d $FONTPATCHER_DIR ]; then
-	(cd $FONTPATCHER
+	(cd $FONTPATCHER_DIR; git pull --rebase)
+else
+	mkdir -p $HOME/src
+	git clone https:/
