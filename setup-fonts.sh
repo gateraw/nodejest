@@ -20,4 +20,5 @@ if [ -d $FONTPATCHER_DIR ]; then
 	(cd $FONTPATCHER_DIR; git pull --rebase)
 else
 	mkdir -p $HOME/src
-	git clone https:/
+	git clone https://github.com/powerline/fontpatcher.git $FONTPATCHER_DIR
+	cd $FONTPATCH
