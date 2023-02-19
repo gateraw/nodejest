@@ -24,4 +24,7 @@ else
 	cd $FONTPATCHER_DIR
 	git am $TOPDIR/fontpatcher-py3.patch
 	./setup.py build
-f
+fi
+FONTPATCHER=$FONTPATCHER_DIR/scripts/powerline-fontpatcher
+
+# Setup Courier-
