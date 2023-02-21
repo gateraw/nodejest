@@ -29,4 +29,5 @@ FONTPATCHER=$FONTPATCHER_DIR/scripts/powerline-fontpatcher
 
 # Setup Courier-Prime.ttf - http://quoteunquoteapps.com/courierprime
 cd $TMPDIR
-curl -
+curl -L -O https://quoteunquoteapps.com/courierprime/downloads/courier-prime.zip
+unzip -
