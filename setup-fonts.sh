@@ -34,3 +34,4 @@ unzip -o -q courier-prime.zip
 $FONTPATCHER "Courier Prime/Courier Prime.ttf"
 mv "CourierPrime for Powerline.ttf" $FONTDIR/Courier-Prime.ttf
 
+# Setup GNU-FreeFont.ttf - https://www.gnu.org/software/free
