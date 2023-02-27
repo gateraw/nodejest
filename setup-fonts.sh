@@ -36,4 +36,6 @@ mv "CourierPrime for Powerline.ttf" $FONTDIR/Courier-Prime.ttf
 
 # Setup GNU-FreeFont.ttf - https://www.gnu.org/software/freefont/
 cd $TMPDIR
-curl -L -O https://ftp.gnu.org/gnu/freefont
+curl -L -O https://ftp.gnu.org/gnu/freefont/freefont-otf-20120503.tar.gz
+tar xf freefont-otf-20120503.tar.gz
+$FO
