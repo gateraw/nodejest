@@ -38,4 +38,5 @@ mv "CourierPrime for Powerline.ttf" $FONTDIR/Courier-Prime.ttf
 cd $TMPDIR
 curl -L -O https://ftp.gnu.org/gnu/freefont/freefont-otf-20120503.tar.gz
 tar xf freefont-otf-20120503.tar.gz
-$FO
+$FONTPATCHER freefont-20120503/FreeMono.otf
+mv "FreeMono for Powerlin
