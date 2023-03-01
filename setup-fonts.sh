@@ -39,4 +39,6 @@ cd $TMPDIR
 curl -L -O https://ftp.gnu.org/gnu/freefont/freefont-otf-20120503.tar.gz
 tar xf freefont-otf-20120503.tar.gz
 $FONTPATCHER freefont-20120503/FreeMono.otf
-mv "FreeMono for Powerlin
+mv "FreeMono for Powerline.otf" $FONTDIR/GNU-FreeFont.ttf
+
+# Setup Bedstead-Condensed.ttf -
