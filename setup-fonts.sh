@@ -45,4 +45,4 @@ mv "FreeMono for Powerline.otf" $FONTDIR/GNU-FreeFont.ttf
 cd $TMPDIR
 curl -L -O bjh21.me.uk/bedstead/bedstead-condensed.otf
 $FONTPATCHER bedstead-condensed.otf
-mv "Bedste
+mv "Bedstead Condensed for Powerline.otf" $FONTDIR/Bedstead-Condensed.ttf
