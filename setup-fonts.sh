@@ -43,4 +43,6 @@ mv "FreeMono for Powerline.otf" $FONTDIR/GNU-FreeFont.ttf
 
 # Setup Bedstead-Condensed.ttf - http://bjh21.me.uk/bedstead/
 cd $TMPDIR
-curl -L -O bjh21.me.uk/bedstead/bedst
+curl -L -O bjh21.me.uk/bedstead/bedstead-condensed.otf
+$FONTPATCHER bedstead-condensed.otf
+mv "Bedste
